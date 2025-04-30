@@ -58,3 +58,8 @@ Delivered a professional Excel dashboard showing:
       - Slicers and Timelines
       - Conditional Formatting
       - Excel Formulas (SUMIFS, AVERAGEIFS, COUNTIFS, etc.)
+
+## Dashboard
+
+![Zomato Analysis Dashboard](https://github.com/user-attachments/assets/23951b9f-b38e-4a86-873d-9ff6706c3c1e)
+
