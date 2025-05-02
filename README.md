@@ -70,5 +70,11 @@ Filters and trend analysis
 
 ## Dashboard
 
-![Zomato Analysis Dashboard](https://github.com/user-attachments/assets/23951b9f-b38e-4a86-873d-9ff6706c3c1e)
+Excel Dashboard - ![Zomato Analysis Dashboard](https://github.com/user-attachments/assets/23951b9f-b38e-4a86-873d-9ff6706c3c1e)
+
+PowerBI Dashboard - ![Zomato Power BI dhashboard](https://github.com/user-attachments/assets/f23c2244-6a96-4976-bee8-6b3cbf06eb91)
+
+Tableau Dashboard - ![Zomato Tableau Dashboard](https://github.com/user-attachments/assets/01b1227a-37bb-43af-aa6d-f3c0f348eca1)
+
+
 
