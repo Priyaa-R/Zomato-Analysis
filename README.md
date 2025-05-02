@@ -1,31 +1,30 @@
-# 🍽️ Zomato Sales Analysis Project | Excel Dashboard
-This project analyzes food delivery data from Zomato to uncover trends in order volumes, customer behavior, and restaurant performance. Built entirely using Microsoft Excel, the dashboard provides interactive, visual insights to help understand key business metrics and optimize operations.
+# 🍽️ Zomato Sales Analysis Project | Excel, Power BI & Tableau Dashboards
+This project analyzes food delivery data from Zomato to uncover trends in order volumes, customer behavior, and restaurant performance. Interactive dashboards were built using Microsoft Excel, Power BI, and Tableau to deliver visual insights that support decision-making and operational optimization.
 
 ## Situation
-Zomato, like many food delivery platforms, handles large amounts of order data across different locations, cuisines, and customer segments. However, identifying patterns in sales and customer preferences from raw data is challenging without an analytical solution.
+Zomato, like many food delivery platforms, deals with vast amounts of order data across cities, cuisines, and customer segments. Analyzing this data to derive useful business insights requires cleaning, structuring, and visualizing it effectively.
 
 ## Task
-The goal was to:
-      - Clean and structure Zomato sales data in Excel
-      - Calculate important performance indicators
-      - Build a dynamic dashboard to visualize sales metrics and trends
-      - Help stakeholders make decisions based on customer and restaurant data
+The project aimed to:
+- Clean and structure Zomato sales data
+- Calculate relevant performance metrics and KPIs
+- Create interactive dashboards in Excel, Power BI, and Tableau
+- Enable stakeholders to explore trends and performance drivers across platforms
 
 ## Action
-- Cleaned and formatted raw Zomato data using Excel
-- Applied formulas and created pivot tables to extract key metrics
-- Built charts to visualize revenue, orders, and cuisine trends
-- Added slicers and interactive filters for user-driven exploration
-- Structured dashboard layout for clarity and ease of use
+- Cleaned and transformed raw Zomato data using Excel and Power Query
+- Used Excel formulas, pivot tables, and slicers to create an interactive dashboard
+- Built Power BI and Tableau dashboards with DAX calculations and visual storytelling
+- Developed user-friendly dashboards with dynamic filters for in-depth analysis
+- Ensured consistency across platforms to validate insights and comparisons
 
 ## Result
-Delivered a professional Excel dashboard showing:
-
-       - Top restaurants and cuisines
-       - Revenue and order distribution
-       - Time-based trends and customer preferences
-       - Enabled business users to explore trends without coding or BI tools
-       - Helped identify which restaurants, cuisines, and times generate the most sales
+Delivered professional dashboards in all three tools with:
+- Key metrics like revenue, orders, and customer preferences
+- Drill-downs by city, cuisine, and restaurant
+- Time-based trend analysis
+- Clear visualizations enabling non-technical users to explore data effectively
+- Identified high-performing restaurants, top cuisines, and peak order timings
 
 ## KPIs Calculated
 - Total Orders
@@ -36,28 +35,38 @@ Delivered a professional Excel dashboard showing:
 - Orders by City
 - Average Orders per Day
 
-## Chart Trends
+## Visual Trends
 - Daily Order Trend
 - Revenue by City
 - Cuisine Popularity Breakdown
 - Restaurant-wise Revenue
 - Orders by Time of Day
 - Orders by Delivery Type
-- Interactive slicers for City, Cuisine, Restaurant, and Date Range
+- Interactive filters by City, Cuisine, Restaurant, and Date Range
 
 ## Insights Derived
-- Top Cities: Certain metro cities generated most of the revenue
-- Best Cuisine: Specific cuisines consistently ranked highest in orders
-- Peak Order Times: High order volumes observed during lunch and dinner hours
-- Top Restaurants: Few restaurants dominate sales share
-- Order Value: Trends in average spend per order were identified across locations
+- Top Cities: Metro cities accounted for the majority of revenue
+- Best Cuisine: Certain cuisines dominated order volumes across cities
+- Peak Order Times: Lunchtime and dinner periods showed spikes in orders
+- Top Restaurants: A few restaurants led the sales in each location
+- Order Value Trends: Variation in average spend observed across locations
 
 ## Tools Used
--Microsoft Excel 2021
-      - Pivot Tables & Charts
-      - Slicers and Timelines
-      - Conditional Formatting
-      - Excel Formulas (SUMIFS, AVERAGEIFS, COUNTIFS, etc.)
+- Microsoft Excel 2021
+Pivot Tables & Charts
+Slicers and Timelines
+Excel Formulas (SUMIFS, AVERAGEIFS, COUNTIFS, etc.)
+Conditional Formatting
+- Power BI
+Power Query for data transformation
+DAX for KPI calculations
+Interactive visuals and slicers
+- Tableau
+Drag-and-drop analytics
+Dashboard storytelling
+Filters and trend analysis
+
+
 
 ## Dashboard
 
